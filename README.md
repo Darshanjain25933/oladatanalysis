@@ -43,5 +43,3 @@ jupyter notebook ola_analysis.ipynb
 - Pie Chart: Cancellation breakdown
 - Histogram: Driver and customer rating distributions
 
-## 📧 Contact
-For collaboration or queries, reach out to [your-email@example.com](mailto:your-email@example.com)
